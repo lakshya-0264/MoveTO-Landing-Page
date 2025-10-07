@@ -17,8 +17,6 @@ This project is a React-based web application designed to provide users with inf
   - React
   - React Router DOM
   - Tailwind CSS
-  - Smooth Scroll Animation
-  - Premium Design (Ready for the Organization)
 - **Icons**:
   - Lucide React
 - **Notifications**:
@@ -27,6 +25,9 @@ This project is a React-based web application designed to provide users with inf
   - Vite
 - **Other**:
   - ES Modules
+  - Smooth Scroll Animation
+  - Premium Design (Ready for the Organization)
+  - Gemini's Nano Banana Model used for Image Generation (To avoid Copyright in future).
 
 ## Getting Started
 
@@ -109,7 +110,7 @@ moveTO/
 
 - Implementing the Authentication.
 - Create a Backend for receiving the contact form response.
-- Use NodeJS Mailer for automated reply.
+- Use NodeJS Mailer/EmailJS for automated reply.
 - Create a Quote Model Logic for efficient price tracking.
 
 ## 🤝 Contributing
