@@ -1,0 +1,67 @@
+# ------------------------
+# Node.js / Package managers
+# ------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+jspm_packages/
+.pnp/
+.pnp.js
+
+# ------------------------
+# Build / Output
+# ------------------------
+dist/
+dist-ssr/
+build/
+.temp/
+temp/
+playground-temp/
+explorations/
+
+# ------------------------
+# Environment & Local
+# ------------------------
+.env
+.env.local
+.env.*.local
+*.local
+
+# ------------------------
+# Logs & Caches
+# ------------------------
+logs/
+*.log
+*.log.*
+*.cpuprofile
+*.eslintcache
+.eslintcache
+.cache/
+.vite/
+.next/
+.nuxt/
+.svelte-kit/
+docs/.vitepress/cache
+
+# ------------------------
+# Editors & OS
+# ------------------------
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ------------------------
+# Misc
+# ------------------------
+TODOs.md
