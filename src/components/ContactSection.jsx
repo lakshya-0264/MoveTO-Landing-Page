@@ -48,7 +48,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-800 mb-1">Visit Us</h3>
-                    <p className="text-gray-600">123 Moving Street, Suite 100<br />Jaipur, Rajasthan</p>
+                    <p className="text-gray-600">Moving Street, Suite 45/2<br />Jaipur, Rajasthan</p>
                   </div>
                 </div>
 
