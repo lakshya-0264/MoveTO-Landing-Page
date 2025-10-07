@@ -6,7 +6,7 @@ const WhyChooseUs = () => {
     <section className="bg-gray-50 py-24 px-4">
     <div className="max-w-7xl mx-auto">
         {/* Header Section Split into Two Columns */}
-        <div className="grid md:grid-cols-2 gap-10 mb-16 items-center">
+        <div className="grid md:grid-cols-2 gap-6 mb-16 items-center">
         {/* Left Side - Heading */}
         <div>
             <div className="flex items-center gap-3 text-orange-500 text-xs font-semibold uppercase tracking-wider mb-4">
@@ -20,7 +20,7 @@ const WhyChooseUs = () => {
 
         {/* Right Side - Description */}
         <div>
-            <p className="text-gray-600 leading-relaxed">
+            <p className="text-gray-600 leading-relaxed mt-12">
             We understand that moving is more than just transporting belongings. It's about trust,
             reliability, and peace of mind. Our dedicated team works tirelessly to ensure every relocation
             is smooth, stress-free, and exceeds your expectations from start to finish.
