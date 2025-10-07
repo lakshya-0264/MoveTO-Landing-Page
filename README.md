@@ -14,19 +14,19 @@ This project is a React-based web application designed to provide users with inf
 ## Tech Stack
 
 - **Frontend**:
-    - React
-    - React Router DOM
-    - Tailwind CSS
-    - Smooth Scroll Animation
-    - Premium Design (Ready for the Organization)
+  - React
+  - React Router DOM
+  - Tailwind CSS
+  - Smooth Scroll Animation
+  - Premium Design (Ready for the Organization)
 - **Icons**:
-    - Lucide React
+  - Lucide React
 - **Notifications**:
-    - React Hot Toast
+  - React Hot Toast
 - **Build Tool**:
-    - Vite
+  - Vite
 - **Other**:
-    - ES Modules
+  - ES Modules
 
 ## Getting Started
 
@@ -105,6 +105,13 @@ moveTO/
 └── vercel.json
 ```
 
+## Future Add-Ons
+
+- Implementing the Authentication.
+- Create a Backend for receiving the contact form response.
+- Use NodeJS Mailer for automated reply.
+- Create a Quote Model Logic for efficient price tracking.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -119,6 +126,6 @@ Contributions are welcome! Please follow these steps:
 
 If you have any questions or suggestions, feel free to contact me at [lakshyasinghal2320@gmail.com](mailto:lakshyasinghal2320@gmail.com).
 
-💖 Thanks for checking out MoveTO!
+Thanks for checking out MoveTO!
 
 ---
