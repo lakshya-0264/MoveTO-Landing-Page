@@ -119,7 +119,16 @@ const Footer = () => {
           <div className="border-t border-gray-800 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <p className="text-gray-400 text-sm">
-                © 2025 Lakshya Singhal. All rights reserved. Designed with excellence.
+                © 2025{" "}
+                <a
+                  href="https://www.linkedin.com/in/lakshya-singhal" // 🔗 replace with your actual LinkedIn URL
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange-500 hover:underline hover:text-orange-400 transition"
+                >
+                  Lakshya Singhal
+                </a>
+                . All rights reserved. Designed with excellence.
               </p>
               <div className="flex gap-6 text-sm">
                 <a href="#" className="hover:text-orange-500 transition">Privacy Policy</a>
